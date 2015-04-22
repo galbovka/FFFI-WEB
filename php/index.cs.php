@@ -75,15 +75,15 @@
           <div id='cssmenu'>
             <ul>
               <li><a href="index.cs.php"><span>Úvod</span></a></li>
-              <li class='has-sub'><a href='#'><span>Festival</span></a>
+              <li class='active has-sub'><a href='#'><span>Festival</span></a>
             <ul>
-              <li><a href="index.cs.php?page=o_festivalu.cs"><span>O festivalu</span></a>
+              <li class='last'><a href="index.cs.php?page=o_festivalu.cs"><span>O festivalu</span></a>
               </li>
-              <li><a href="index.cs.php?page=prihlaska.cs"><span>Přihláška</span></a>
+              <li class='last'><a href="index.cs.php?page=prihlaska.cs"><span>Přihláška</span></a>
               </li>
-              <li><a href="index.cs.php?page=fotogalerie.cs"><span>Fotogalerie</span></a>
+              <li class='last'><a href="index.cs.php?page=fotogalerie.cs"><span>Fotogalerie</span></a>
               </li>
-              <li><a href="index.cs.php?page=o_nas.cs"><span>Napsali o nás</span></a>
+              <li class='last'><a href="index.cs.php?page=o_nas.cs"><span>Napsali o nás</span></a>
               </li>
             </ul>
               </li>

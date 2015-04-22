@@ -73,13 +73,13 @@
           <div id='cssmenu'>
             <ul>
               <li><a href="index.en.php"><span>Home</span></a></li>
-              <li class='has-sub'><a href='#'><span>Festival</span></a>
+              <li class='active has-sub'><a href='#'><span>Festival</span></a>
             <ul>
-              <li><a href="index.en.php?page=o_festivalu.en"><span>About festival</span></a>
+              <li class='last'><a href="index.en.php?page=o_festivalu.en"><span>About festival</span></a>
               </li>
-              <li><a href="index.en.php?page=prihlaska.en"><span>Application</span></a>
+              <li class='last'><a href="index.en.php?page=prihlaska.en"><span>Application</span></a>
               </li>
-              <li><a href="index.en.php?page=fotogalerie.en"><span>Photo gallery</span></a>
+              <li class='last'><a href="index.en.php?page=fotogalerie.en"><span>Photo gallery</span></a>
               </li>
               <li class='last'><a href="index.en.php?page=o_nas.en"><span>Festival in media</span></a>
               </li>
