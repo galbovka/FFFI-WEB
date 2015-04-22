@@ -18,6 +18,9 @@
   
   <link rel="stylesheet" type="text/css" href="ff.css" />
   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="lightbox/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="lightbox/js/lightbox.js"></script>
+<link rel="stylesheet" type="text/css" href="lightbox/css/lightbox.css" media="screen, projection, handheld, tv">
    <script src="script.js"></script>
   <!--[if IE]>
   <link rel="stylesheet" type="text/css" href="ie.css" />
@@ -109,7 +112,7 @@
 
   <div id="clear"></div>
 
-  <div class="paticka">		<!-- začátek patičky -->
+<div class="paticka">		<!-- začátek patičky -->
     <br />
     <table>
       <tr>                     
@@ -117,6 +120,9 @@
         <th>Technická stránka, grafická úprava: Anna Galbová, Jan Sláma
             <br />
             LEMMA - laboratoř elektronických multimediálních aplikací
+            <br />
+            <a href="https://www.facebook.com/festival.fi.muni.cz"><img src="grafika/fb.png" width="20px" height="20px"></a> &nbsp
+            <a href="https://www.youtube.com/user/fffilemma"><img src="grafika/yt.png" width="30px" height="20px"></a>
         </th>
         <th><a href="http://www.fi.muni.cz/lemma/" target="_blank"><img src="logo/lemma.png"  width="60px" height="60px"></a></th>
       </tr>

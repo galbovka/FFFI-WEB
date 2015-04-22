@@ -38,7 +38,7 @@ if ($sortByImageName) {
 }
 
 # Generate the HTML output
-echo '<ul class="galerie">';
+echo '<div class="galerie">';
 foreach ($sortedImages as $image) {
 
     # Get the name of the image, stripped from image folder path and file type extension
@@ -48,10 +48,8 @@ foreach ($sortedImages as $image) {
     $lastModified = '(last modified: ' . date('F d Y H:i:s', filemtime($image)) . ')';
 
     # Begin adding
-    echo '<li>';
-    echo '<div class="img"><a name="' . $name . '" href="' . str_replace('mini/', '',$image) . '" class="lightbox[teaser]"' . '>';
+    echo '<a name="' . $name . '" href="' . str_replace('mini/', '',$image) . '" class="lightbox[teaser]"' . '>';
     echo '<img src="' . $image . '" alt="' . $name . '" title="' . $name . '">';
-    echo '</a></div>';
-    echo "</li>\r\n";
+    echo '</a>';
 }
-echo '</ul>';
+echo '</div>';

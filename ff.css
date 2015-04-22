@@ -149,6 +149,15 @@ html{
 
 }
 
+.galerie{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.galerie img{
+	padding: 0 4px;
+}
+
 table.galerie {
   width:650px;
   margin-left: auto;
