@@ -1,3 +1,3 @@
 #!/packages/run/php/bin/php
-<?php phpversion();?>
+<?php echo "Funguje";?>
 

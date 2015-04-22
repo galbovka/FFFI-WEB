@@ -1,3 +1,4 @@
+#!/packages/run/php/bin/php
 <!DOCTYPE html>
 <html>
 <head>
