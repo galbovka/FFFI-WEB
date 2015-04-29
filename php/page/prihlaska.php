@@ -20,6 +20,6 @@
     <h2>Právní ustanovení</h2>
     <p><a href="pravidla.cs.html"> Přečtěte si prosím i právní ustanovení a pravidla pro přihlašování filmů!</a></p>
     <h2>Přihláška</h2>
-    <p><a href="http://lemma.ics.muni.cz/WMA/project/appfuco">Své snímky prosím přihlašujte zde!</a></p>
+    <p>Přihlašování bylo ukončeno. Děkujeme za Vaše filmy.</p>
 	<br />
   </div>				    <!-- konec těla dokumentu -->
