@@ -13,8 +13,8 @@
 	<meta name="description" content="FF - LEMMA | Stránky Filmového festivalu Masarykovy univerzity Fakulty informatiky v&nbsp;Brně." />
 
   <title>15. Filmový festival - FI MU</title>
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin%2Clatin-ext' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Oswald&subset=latin%2Clatin-ext' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Oswald&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   
   <link rel="stylesheet" type="text/css" href="ff.css" />
   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
