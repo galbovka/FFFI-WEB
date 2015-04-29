@@ -46,6 +46,24 @@
         </table>
       </div>
       
+      <div class="partner1">
+        <table class="partneri">
+          <tr>
+            <th class="name"><a href="https://www.embedit.cz/" target="_blank"><p>www.embedit.cz</p></a></th>
+            <th class="logo"><img src="logo/it.png" alt="" style="margin: 20px 5px 5px 5px; border: solid 1px #3b342a;" width="140" /></th>
+          </tr>
+        </table>
+      </div>
+      
+      <div class="partner2">
+        <table class="partneri">
+          <tr>
+            <th class="name"><a href="http://www.redbull.com/cz/cs/" target="_blank"><p>www.redbull.com</p></a></th>
+            <th class="logo"><img src="logo/rb.jpg" alt="" style="margin: 5px 5px 5px 5px; border: solid 1px #3b342a;" width="100" /></th>
+          </tr>
+        </table>
+      </div>
+      
     <h1>Partneři</h1>
     
       <div class="partner1">

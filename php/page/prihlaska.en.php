@@ -8,10 +8,15 @@
        Viewer's poll</p>
     <p>Competitors have no legal claim regarding the victory and non-material prizes can't be given out by or exchanged to money. Awards are being given after the event, on a ceremony on May 15th, 2015 - or, if the winning author can't be present, they are given depending on an agreement between author and organisers of the XV. Film Festival of Faculty of Informatics.</p>
     
-    <h2>Awards:</h2>
+    <h2>Judges awards:</h2>
     <p> 1st place - 1.500 CZK, Zoner Photo Studio 14 license , Filmobolos statue (challenge trophy)<br />
         2nd place - 1.000 CZK, Zoner Photo Studio 14 license<br />
         3rd place - 500 CZK, Zoner Photo Studio 14 license </p>
+        
+        <h2>Viewers awards:</h2>  <br />
+<p>1st place - Apple iPod nano, sports bag, cycling bag and EmbedIT t-shirt, multipack Starobrno medium, Filmobolos statue <br />
+2nd place - Zoner photo studio 17 license, cycling bag and EmbedIT t-shirt, multipack Starobrno medium  <br />
+3rd place - Zoner photo studio 17 license, EmbedIT t-shirt, multipack Starobrno medium  <br />      </p>
     <h2>Legal assessments</h2>
     <p><a href="pravidla.cs.html">Please, read the legal assessments and rules for film registration!</a></p>
 	<h2>Registration</h2>
