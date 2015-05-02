@@ -18,7 +18,7 @@
 2. místo - licence Zoner photo studio 17, cyklovak a tričko EmbedIT, multipack Starobrno medium  <br />
 3. místo - licence Zoner photo studio 17, tričko EmbedIT, multipack Starobrno medium  <br />      </p>
     <h2>Právní ustanovení</h2>
-    <p><a href="pravidla.cs.html"> Přečtěte si prosím i právní ustanovení a pravidla pro přihlašování filmů!</a></p>
+    <p><a href="pravidla.cs"> Přečtěte si prosím i právní ustanovení a pravidla pro přihlašování filmů!</a></p>
 	<h2>Přihláška</h2>
     <p>Přihlašování bylo ukončeno. Děkujeme za Vaše filmy.</p>
     <br />

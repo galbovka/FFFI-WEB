@@ -18,7 +18,7 @@
 2nd place - Zoner photo studio 17 license, cycling bag and EmbedIT t-shirt, multipack Starobrno medium  <br />
 3rd place - Zoner photo studio 17 license, EmbedIT t-shirt, multipack Starobrno medium  <br />      </p>
     <h2>Legal assessments</h2>
-    <p><a href="pravidla.cs.html">Please, read the legal assessments and rules for film registration!</a></p>
+    <p><a href="index.en.php?page=pravidla.en">Please, read the legal assessments and rules for film registration!</a></p>
 	<h2>Registration</h2>
     <p>Registration is closed. Thank you for your films.</a></p>
     <br />

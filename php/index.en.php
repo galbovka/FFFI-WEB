@@ -11,7 +11,7 @@
 	<meta name="keywords" content="LEMMA PV113 Fakulta informatiky MU multimedia publishing filmová tvorba Softwarové elektronické publikace - seminá filmový festival" />
 	<meta name="description" content="FF - LEMMA | Stránky Filmového festivalu Masarykovy univerzity Fakulty informatiky v&nbsp;Brně." />
 
-  <title>15th Film festival - FI MU</title>
+  <title><?php include "dynamic_title_en.php";?></title>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Oswald&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" type="text/css" href="ff.css" />
@@ -75,7 +75,7 @@
     </div>
     
   <div class="languages">
-    <a href="index.cs.php">CZ</a> / <a class="active" href="index.en.php">EN</a>
+    <a href="http://festival.fi.muni.cz/2015/">CZ</a> / <a class="active" href="index.en.php">EN</a>
   </div> 
     
   <div class="menucontainer"> <!-- začátek menu -->
