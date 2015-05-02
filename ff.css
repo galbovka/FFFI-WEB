@@ -348,9 +348,8 @@ p.podpis{
 }
 #cssmenu ul li a {
   display: block;
-  font-family: "Oswald", Arial, sans-serif;
+  font-family: "Open sans", Arial, sans-serif;
   text-decoration: none;
-  font-weight: 300;
 }
 #cssmenu > ul > li > a {
   font-size: 20px;
