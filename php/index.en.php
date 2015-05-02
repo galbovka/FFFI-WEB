@@ -132,8 +132,8 @@
             <br />
             LEMMA - laboratoř elektronických multimediálních aplikací
             <br />
-            <a href="https://www.facebook.com/festival.fi.muni.cz"><img src="grafika/fb.png" width="20px" height="20px"></a> &nbsp
-            <a href="https://www.youtube.com/user/fffilemma"><img src="grafika/yt.png" width="30px" height="20px"></a>
+            <a href="https://www.facebook.com/festival.fi.muni.cz" target="_blank"><img src="grafika/fb.png" width="20px" height="20px"></a> &nbsp
+            <a href="https://www.youtube.com/user/fffilemma" target="_blank"><img src="grafika/yt.png" width="30px" height="20px"></a>
         </th>
         <th><a href="http://www.fi.muni.cz/lemma/" target="_blank"><img src="logo/lemma.png"  width="60px" height="60px"></a></th>
       </tr>

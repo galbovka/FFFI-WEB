@@ -73,11 +73,11 @@
     </div>
 	</div>
     <div class="header2">
-      <a href="index.cs.php"><img src="grafika/15FFFI.jpg" align="center"></a>
+      <a href="http://festival.fi.muni.cz/2015/"><img src="grafika/15FFFI.jpg" align="center"></a>
     </div>
     
   <div class="languages">
-    <a class="active" href="index.cs.php">CZ</a> / <a href="index.en.php">EN</a>
+    <a class="active" href="http://festival.fi.muni.cz/2015/">CZ</a> / <a href="index.en.php">EN</a>
   </div> 
     
   <div class="menucontainer"> <!-- začátek menu -->
@@ -87,21 +87,21 @@
         <th class="menu">
           <div id='cssmenu'>
             <ul>
-              <li><a href="index.cs.php"><span>Úvod</span></a></li>
+              <li><a href="http://festival.fi.muni.cz/2015/"><span>Úvod</span></a></li>
               <li class='active has-sub'><a href='#'><span>Festival</span></a>
             <ul>
-              <li class='last'><a href="index.cs.php?page=o_festivalu.cs"><span>O festivalu</span></a>
+              <li class='last'><a href="o_festivalu.cs"><span>O festivalu</span></a>
               </li>
-              <li class='last'><a href="index.cs.php?page=prihlaska.cs"><span>Přihláška</span></a>
+              <li class='last'><a href="prihlaska.cs"><span>Přihláška</span></a>
               </li>
-              <li class='last'><a href="index.cs.php?page=fotogalerie.cs"><span>Fotogalerie</span></a>
+              <li class='last'><a href="fotogalerie.cs"><span>Fotogalerie</span></a>
               </li>
-              <li class='last'><a href="index.cs.php?page=o_nas.cs"><span>Napsali o nás</span></a>
+              <li class='last'><a href="o_nas.cs"><span>Napsali o nás</span></a>
               </li>
             </ul>
               </li>
-              <li><a href="index.cs.php?page=partneri.cs"><span>Partneři</span></a></li>
-              <li class='last'><a href="index.cs.php?page=kontakt.cs"><span>Kontakt</span></a></li>
+              <li><a href="partneri.cs"><span>Partneři</span></a></li>
+              <li class='last'><a href="kontakt.cs"><span>Kontakt</span></a></li>
             </ul>
           </div>
         </th>
@@ -134,8 +134,8 @@
             <br />
             LEMMA - laboratoř elektronických multimediálních aplikací
             <br />
-            <a href="https://www.facebook.com/festival.fi.muni.cz"><img src="grafika/fb.png" width="20px" height="20px"></a> &nbsp
-            <a href="https://www.youtube.com/user/fffilemma"><img src="grafika/yt.png" width="30px" height="20px"></a>
+            <a href="https://www.facebook.com/festival.fi.muni.cz" target="_blank"><img src="grafika/fb.png" width="20px" height="20px"></a> &nbsp
+            <a href="https://www.youtube.com/user/fffilemma" target="_blank"><img src="grafika/yt.png" width="30px" height="20px"></a>
         </th>
         <th><a href="http://www.fi.muni.cz/lemma/" target="_blank"><img src="logo/lemma.png"  width="60px" height="60px"></a></th>
       </tr>
