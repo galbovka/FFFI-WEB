@@ -12,15 +12,15 @@
 	<meta name="keywords" content="LEMMA PV113 Fakulta informatiky MU multimedia publishing filmová tvorba Softwarové elektronické publikace - seminá filmový festival" />
 	<meta name="description" content="FF - LEMMA | Stránky Filmového festivalu Masarykovy univerzity Fakulty informatiky v&nbsp;Brně." />
 
-  <title>15. Filmový festival - FI MU</title>
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Oswald&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<title><?php include "dynamic_title_cs.php";?></title>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Oswald&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   
-  <link rel="stylesheet" type="text/css" href="ff.css" />
-  <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-  <script type="text/javascript" src="lightbox/js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="lightbox/js/lightbox.js"></script>
-<link rel="stylesheet" type="text/css" href="lightbox/css/lightbox.css" media="screen, projection, handheld, tv">
+	<link rel="stylesheet" type="text/css" href="ff.css" />
+	<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="lightbox/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="lightbox/js/lightbox.js"></script>
+	<link rel="stylesheet" type="text/css" href="lightbox/css/lightbox.css" media="screen, projection, handheld, tv">
    <script src="script.js"></script>
   <!--[if IE]>
   <link rel="stylesheet" type="text/css" href="ie.css" />
