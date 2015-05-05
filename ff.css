@@ -348,7 +348,7 @@ p.podpis{
 }
 #cssmenu ul li a {
   display: block;
-  font-family: "Open sans", Arial, sans-serif;
+  font-family: "Open sans condensed", Arial, sans-serif;
   text-decoration: none;
 }
 #cssmenu > ul > li > a {
