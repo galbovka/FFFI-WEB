@@ -3,4 +3,4 @@ RewriteEngine On
 RewriteBase /2015/
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^/]+)/?$ ?page=$1
+RewriteRule ^(.*).cs index.cs.php?page=$1.cs
