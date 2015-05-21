@@ -90,6 +90,8 @@
             <ul>
               <li class='last'><a href="index.en.php?page=o_festivalu.en"><span>About festival</span></a>
               </li>
+              <li class='last'><a href="program.en"><span>Program</span></a>
+              </li>
               <li class='last'><a href="index.en.php?page=prihlaska.en"><span>Application</span></a>
               </li>
               <li class='last'><a href="index.en.php?page=fotogalerie.en"><span>Photo gallery</span></a>

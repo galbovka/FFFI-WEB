@@ -92,6 +92,8 @@
             <ul>
               <li class='last'><a href="o_festivalu.cs"><span>O festivalu</span></a>
               </li>
+              <li class='last'><a href="program.cs"><span>Program</span></a>
+              </li>
               <li class='last'><a href="prihlaska.cs"><span>Přihláška</span></a>
               </li>
               <li class='last'><a href="fotogalerie.cs"><span>Fotogalerie</span></a>

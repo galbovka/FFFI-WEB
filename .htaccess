@@ -1,1 +1,14 @@
-DirectoryIndex index.cs.php
+AddHandler cgi-script .php
+AddType application/x-httpd-php .php
+AddDefaultCharset UTF-8
+Options -Indexes
+DirectoryIndex index.php index.html index.htm
+RewriteEngine On
+RewriteOptions MaxRedirects=10
+RewriteCond %{HTTP_HOST} !^festival\.fi\.muni\.cz [NC]
+RewriteCond %{REQUEST_URI} !^/lemma/festival/archiv/0[123]/(.*)$ [NC]
+RewriteRule ^(.*)$ http://festival.fi.muni.cz/$1 [R=301,NC]
+
+
+Redirect http://festival.fi.muni.cz/2015 http://festival.fi.muni.cz/2015/index.cs.php
+

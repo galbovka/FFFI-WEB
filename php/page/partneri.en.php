@@ -64,6 +64,17 @@
         </table>
       </div>
       
+      <div class="partner1">
+        <table class="partneri">
+          <tr>
+            <th class="name"><a href="http://www.adobe.com/cz/" target="_blank"><p>www.adobe.com</p></a></th>
+            <th class="logo"><img src="logo/adobe.jpg" alt="" style="margin: 20px 5px 5px 5px; border: solid 1px #3b342a;" width="70" />
+            <img src="logo/dig.jpg" alt="" style="margin: 20px 5px 5px 5px; border: solid 1px #3b342a;" width="140" />
+            <img src="logo/max.jpg" alt="" style="margin: 20px 5px 5px 5px; border: solid 1px #3b342a;" width="140" /></th>
+          </tr>
+        </table>
+      </div>
+      
     <h1>Partners</h1>
     
       <div class="partner1">
