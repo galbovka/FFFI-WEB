@@ -4,7 +4,7 @@
     srdečně vás vítáme na Filmovém festivalu Fakulty informatiky, kde letos
     již popatnácté studenti MU představí svou původní filmovou tvorbu. Pod
     záštitou děkana FI MU prof. RNDr. Michala Kozubka, Ph.D. a primátora
-    města Brna Ing.&nbspPetra Vokřála proběhne promítání původních
+    města Brna Ing.&nbsp;Petra Vokřála proběhne promítání původních
     autorských filmů dne 15. 5. 2015 večer, opět na Fakultě informatiky MU. </p>
 
     <p>Letošní ročník má motto <em>střih!</em></p>
@@ -22,6 +22,6 @@
 	<p class="podpis">Petr Sojka, Robert Král, Radovan Hakl, Josef Víšek</p>
 
 	<br />
-	<div class="trailer" style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/K1mtvn5OrLo" frameborder="0" allowfullscreen align="center"></iframe></div>
+	<div class="trailer"><iframe width="560" height="315" src="https://www.youtube.com/embed/K1mtvn5OrLo" allowfullscreen></iframe></div>
 	<br />
 </div>				    <!-- konec těla dokumentu -->

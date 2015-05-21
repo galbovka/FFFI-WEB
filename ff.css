@@ -266,10 +266,15 @@ p.podpis{
 
 #clear {clear: both;}
 
+.trailer {
+	text-align: center;
+}
+
 .trailer iframe {
 	width: 100%;
 	max-width: 600px;
 	margin: 0 auto;
+	frameborder: 0;
 }
 
 /* PATIÈKA */

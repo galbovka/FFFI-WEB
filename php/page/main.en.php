@@ -16,6 +16,6 @@
     <p class="podpis">Petr Sojka, Robert Král, Radovan Hakl, Josef Víšek</p>
     
     <br />
-    <div class="trailer" style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/K1mtvn5OrLo" frameborder="0" allowfullscreen align="center"></iframe></div>
+    <div class="trailer"><iframe width="560" height="315" src="https://www.youtube.com/embed/K1mtvn5OrLo" allowfullscreen></iframe></div>
     <br />
   </div>				    <!-- konec těla dokumentu -->
