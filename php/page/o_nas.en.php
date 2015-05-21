@@ -5,5 +5,6 @@
     <p>Studentpoint.cz, 2.4.2015: <a href="http://www.studentpoint.cz/291-filmove-deni/18365-filmovy-festival-fakulty-informatiky-prihlaste-i-vy-svuj-film/#.VT9eniHtmVM" target="_blank">Filmový festival Fakulty informatiky: Přihlaste i vy svůj film!</a></p>
     <p>Bno TV: <a href="http://www.b-tv.cz/vlna-z-brna.html?ep=3279" target="_blank">Vlna z Brna</a></p>
     <p>Online.muni.cz, 11.5.2015: <a href="http://www.online.muni.cz/student/6100-fakulta-informatiky-hosti-filmovy-festival-i-divadelni-premieru">Fakulta informatiky hostí filmový festival a divadelní premiéru!</a> </p>
+    <p>Online.muni.cz, 16.5.2015: <a href="http://www.online.muni.cz/student/6122-anticke-drama-a-superhrdinsky-akcnak-ovladly-festival-fi#.VV3u-U-8M6w">Antické drama a superhrdinský akčňák ovládly festival FI</a></p>
     <br />
   </div>				    <!-- konec těla dokumentu -->

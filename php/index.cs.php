@@ -94,6 +94,10 @@
               </li>
               <li class='last'><a href="program.cs"><span>Program</span></a>
               </li>
+              <li class='last'><a href="vysledky.cs"><span>Výsledky</span></a>
+              </li>
+              <li class='last'><a href="filmy.cs"><span>Filmy</span></a>
+              </li>
               <li class='last'><a href="prihlaska.cs"><span>Přihláška</span></a>
               </li>
               <li class='last'><a href="fotogalerie.cs"><span>Fotogalerie</span></a>
