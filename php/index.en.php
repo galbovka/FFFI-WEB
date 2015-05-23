@@ -88,7 +88,7 @@
             <ul>
               <li class='last'><a href="index.en.php?page=o_festivalu.en"><span>About festival</span></a>
               </li>
-              <li class='last'><a href="program.en"><span>Program</span></a>
+              <li class='last'><a href="index.en.php?page=program.en"><span>Program</span></a>
               </li>
               <li class='last'><a href="index.en.php?page=vysledky.en"><span>Results</span></a>
               </li>
