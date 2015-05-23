@@ -2,9 +2,6 @@
 <!DOCTYPE html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta http-equiv="pragma" content="no-cache" />
-	<meta http-equiv="cache-control" content="no-cache" />
-	<meta http-equiv="Content-Language" content="cs" />
 	<meta name="author" content="Anna Galbova, FI MU; Jan Slama, FI MU" />
 	<meta name="copyright" content="LEMMA" />
 	<meta name="robots" content="all,follow" />
@@ -12,8 +9,9 @@
 	<meta name="description" content="FF - LEMMA | Stránky Filmového festivalu Masarykovy univerzity Fakulty informatiky v&nbsp;Brně." />
 
   <title><?php include "dynamic_title_en.php";?></title>
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  
   <link rel="stylesheet" type="text/css" href="ff.css" />
   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
   <script type="text/javascript" src="lightbox/js/jquery-1.7.2.min.js"></script>
@@ -60,9 +58,9 @@
     <div class="header1">
       <table>
         <tr>
-          <th class="left"><img src="grafika/stickers1_EN.png"></th>
-          <th class="center"><img src="grafika/cut.png"></th>
-          <th class="right"><img src="grafika/stickers2_EN.png"></th>
+          <th class="left"><img src="grafika/stickers1_EN.png" alt="where"></th>
+          <th class="center"><img src="grafika/cut.png" alt="Cut!"></th>
+          <th class="right"><img src="grafika/stickers2_EN.png" alt="when"></th>
         </tr>
       </table>
 	  <div class="responsive">
@@ -71,7 +69,7 @@
     </div>
     </div>
     <div class="header2">
-      <a href="index.en.php"><img src="grafika/15FFFI_EN.jpg" align="center"></a>
+      <a href="index.en.php"><img src="grafika/15FFFI_EN.jpg" alt="FFFI"></a>
     </div>
     
   <div class="languages">
@@ -133,15 +131,15 @@
     <br />
     <table>
       <tr>                     
-        <th><a href="http://www.fi.muni.cz/" target="_blank"><img src="logo/fi.png" width="60px" height="60px"></a></th>
+        <th><a href="http://www.fi.muni.cz/" target="_blank"><img src="logo/fi.png" width="60" height="60" alt="FI"></a></th>
         <th>Technická stránka, grafická úprava: Anna Galbová, Jan Sláma
             <br />
             LEMMA - laboratoř elektronických multimediálních aplikací
             <br />
-            <a href="https://www.facebook.com/festival.fi.muni.cz" target="_blank"><img src="grafika/fb.png" width="20px" height="20px"></a> &nbsp
-            <a href="https://www.youtube.com/user/fffilemma" target="_blank"><img src="grafika/yt.png" width="30px" height="20px"></a>
+            <a href="https://www.facebook.com/festival.fi.muni.cz" target="_blank"><img src="grafika/fb.png" width="20" height="20" alt="Facebook"></a> &nbsp;
+            <a href="https://www.youtube.com/user/fffilemma" target="_blank"><img src="grafika/yt.png" width="30" height="20" alt="Youtube"></a>
         </th>
-        <th><a href="http://www.fi.muni.cz/lemma/" target="_blank"><img src="logo/lemma.png"  width="60px" height="60px"></a></th>
+        <th><a href="http://www.fi.muni.cz/lemma/" target="_blank"><img src="logo/lemma.png"  width="60" height="60" alt="Lemma"></a></th>
       </tr>
     </table>
     <br />
