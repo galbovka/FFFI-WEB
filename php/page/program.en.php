@@ -1,4 +1,4 @@
-  <div id="text">		<!-- začátek těla dokumentu -->
+<div id="text">		<!-- začátek těla dokumentu -->
    <h1>Program</h1>
     <h2>Festival starts 19:30</h2> <br />
     <p>1 Charlie the Bunny Eating Tiny Sushi (1:31) <br />
@@ -26,9 +26,9 @@
     • Jak?u.b. (2:18) <br />
     • Fí! (1:15)  <br />
     • Happiness – Behind the Scenes (2:21)  <br />
-    • Dokument 14. FF FI (7:47) <br />
+    • Dokument 14. FF FI (7:47) <br />	</p>
     
-    <h2>Award ceremony</h2>  <br />  </p>
+    <h2>Award ceremony</h2>  <br />  
 
     <h2>Afterparty!</h2>
     
@@ -36,6 +36,6 @@
     <br />
     
     <p> More information about movies, program and sponsor list can be found in our<a href="brozura.pdf" download>brochure!</a>    <br />
-    <img src="grafika/broz.png">      </p>
+    <img src="grafika/broz.png" alt="brochure">      </p>
     <br />
-  </div>				    <!-- konec těla dokumentu -->
+</div>				    <!-- konec těla dokumentu -->

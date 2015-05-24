@@ -1,4 +1,4 @@
-  <div id="text">		<!-- začátek těla dokumentu -->
+<div id="text">		<!-- začátek těla dokumentu -->
   <h1>Program</h1>
     <h2>Zahájení festivalu 19:30</h2> <br />
     <p>1 Charlie the Bunny Eating Tiny Sushi (1:31) <br />
@@ -26,14 +26,14 @@
     • Jak?u.b. (2:18) <br />
     • Fí! (1:15)  <br />
     • Happiness – Behind the Scenes (2:21)  <br />
-    • Dokument 14. FF FI (7:47) <br />
-    
-    <h2>Vyhlášení výsledků hlasování</h2>  <br />  </p>
+    • Dokument 14. FF FI (7:47) <br /> </p>
+    	 
+    <h2>Vyhlášení výsledků hlasování</h2>  <br /> 
 
     <h2>Afterparty!</h2>    <br />
     
     <p> Více infa o filmech, program i seznam sponzorů naleznete v naší <a href="brozura.pdf" download>brožuře!</a>    <br />
-    <img src="grafika/broz.png">      </p>
+    <img src="grafika/broz.png" alt="brozura"></p>
 	
 	<h2>Odborná porota XV. FF FI MU</h2>
 	<p>
@@ -41,9 +41,9 @@
 	• Kamila Zlatušková, dramaturgyně ČT, <a href="http://www.ceskatelevize.cz/lide/kamila-zlatuskova/" target="_blank">http://www.ceskatelevize.cz/lide/kamila-zlatuskova/</a><br />
 	• Jiří Vanýsek, režisér, <a href="http://www.jirivanysek.cz/" target="_blank">http://www.jirivanysek.cz/</a><br />
 	• Petr Baran, fotograf a filmový tvúrce, <a href="http://www.ceskatelevize.cz/lide/petr-baran/" target="_blank">http://www.ceskatelevize.cz/lide/petr-baran/</a> , <a href="http://www.filmdat.cz/osoby.php?detail=33" target="_blank">http://www.filmdat.cz/osoby.php?detail=33</a><br />
-	• Miroslav Maixner, ředitel B16, <a href="http://brno16.cz/" target="_blank">http://brno16.cz/<br />
+	• Miroslav Maixner, ředitel B16, <a href="http://brno16.cz/" target="_blank">http://brno16.cz/</a><br />
 	</p>
 
     
     <br />
-  </div>				    <!-- konec těla dokumentu -->
+ </div>				    <!-- konec těla dokumentu -->

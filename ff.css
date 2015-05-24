@@ -132,7 +132,7 @@ html{
 #text .building img{
   float: right;
   padding-right: 20px;
-
+  width: 100%;
 }
 
 .partner1, .partner2 {
@@ -160,14 +160,12 @@ html{
 
 table.galerie {
   width:650px;
-  margin-left: auto;
-  margin-right: auto;
-  
+  margin: 0 auto;
 }
 
 table.galeriemenu {
   width:714px;
-  margin-left: 0px;
+  margin-left: 0;
 ;
 }
 
@@ -190,7 +188,7 @@ table.galeriemenu {
 .partner1 table.partneri th.name {
   text-align: left;
   width:40px;
-  vertical-align: center;
+  vertical-align: middle;
   
 }
 .partner1 table.partneri th.logo {
@@ -201,7 +199,7 @@ table.galeriemenu {
 .partner2 table.partneri th.name {
   text-align: left;
   width:40px;
-  vertical-align: center;
+  vertical-align: middle;
   
 }
 .partner2 table.partneri th.logo {
@@ -274,7 +272,7 @@ p.podpis{
 	width: 100%;
 	max-width: 600px;
 	margin: 0 auto;
-	frameborder: 0;
+	border: 0;
 }
 
 /* PATIÈKA */
@@ -295,7 +293,7 @@ p.podpis{
 
 .paticka th {
   text-align: center;
-  vertical-align: center;
+  vertical-align: middle;
 }
 /* filmy */
 .film1, .film2 {
@@ -330,7 +328,7 @@ p.podpis{
 .film1 table.filmy td.name {
   text-align: left;
   width:400px;
-  vertical-align: center;
+  vertical-align: middle;
   
 }
 .film1 table.filmy th.logo {
@@ -341,7 +339,7 @@ p.podpis{
 .film2 table.filmy td.name {
   text-align: left;
   width:400px;
-  vertical-align: center;
+  vertical-align: middle;
   
 }
 .film2 table.filmy th.logo {
@@ -349,6 +347,16 @@ p.podpis{
   
 }
 
+.mapa {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.mapa iframe {
+	width: 90% ;
+	height: 350px;
+	border: 0;	
+}
 
 /* responsive menu */
 #cssmenu {

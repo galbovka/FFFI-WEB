@@ -255,7 +255,7 @@ riešiť podľa seba.
           </tr>
         </table>
       </div>
- <h1>Bonusová sekce</h2>     
+ <h1>Bonusová sekce</h1>     
       <div class="film2">
         <table class="filmy">
           <tr>

@@ -3,7 +3,7 @@
       <div class="partner1">
         <table class="partneri">
           <tr>
-            <th class="name"><a href="http://www.ysoft.cz" target="_blank"><span><p>www.ysoft.cz</p></span></a></th>
+            <th class="name"><a href="http://www.ysoft.cz" target="_blank"><p>www.ysoft.cz</p></a></th>
             <th class="logo"><img src="logo/Ysoft.jpg" alt="" style="margin: 5px 5px 5px 5px; border: solid 1px #3b342a;" width="140" /></th>
           </tr>
         </table>
@@ -22,7 +22,7 @@
       <div class="partner2">
         <table class="partneri">
           <tr>
-            <th class="name"><a href="http://www.redhat.com/en" target="_blank"><p>www.redhat.cz</p></a><p>Stříbrný&nbspsponzor</p></th>
+            <th class="name"><a href="http://www.redhat.com/en" target="_blank"><p>www.redhat.cz</p></a><p>Stříbrný&nbsp;sponzor</p></th>
             <th class="logo"><img src="logo/redhat.jpg" alt="" style="margin: 20px 5px 5px 5px; border: solid 1px #3b342a;" width="140" /></th>
           </tr>
         </table>
