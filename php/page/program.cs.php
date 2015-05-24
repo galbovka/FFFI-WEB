@@ -32,7 +32,7 @@
 
     <h2>Afterparty!</h2>    <br />
     
-    <p> Více infa o filmech, program i seznam sponzorů naleznete v naší <a href="brozura.pdf" download>brožuře!</a>    <br />
+    <p> Více infa o filmech, program i seznam sponzorů naleznete v naší <a href="brozura.pdf" target="_blank">brožuře!</a>    <br />
     <img src="grafika/broz.png" alt="brozura"></p>
 	
 	<h2>Odborná porota XV. FF FI MU</h2>

@@ -35,7 +35,7 @@
     
     <br />
     
-    <p> More information about movies, program and sponsor list can be found in our<a href="brozura.pdf" download>brochure!</a>    <br />
+    <p> More information about movies, program and sponsor list can be found in our <a href="brozura.pdf" target="_blank">brochure!</a>    <br />
     <img src="grafika/broz.png" alt="brochure">      </p>
     <br />
 </div>				    <!-- konec těla dokumentu -->
