@@ -329,22 +329,27 @@ p.podpis{
   text-align: left;
   width:400px;
   vertical-align: middle;
-  text-transform: uppercase;
+
 }
 .film1 table.filmy th.logo {
   text-align: right;
-  
+}
+
+.film1 h2 {
+  text-transform: uppercase;
 }
 
 .film2 table.filmy td.name {
   text-align: left;
   width:400px;
   vertical-align: middle;
-  text-transform: uppercase;  
 }
 .film2 table.filmy th.logo {
   text-align: right;
+  }
   
+.film2  h2 {
+  text-transform: uppercase;
 }
 
 .mapa {
