@@ -77,7 +77,8 @@ notebook kávou. A od té doby se začnou dít podivné věci...
         <table class="filmy">
           <tr>
             <td class="name"><h2>ŇITŘ</h2>
-            <p>motive, directing, production, art filters, editing, colors, actor:</b> Kryštof Zvolánek   <br />
+            <p>
+			 • <b>motive, directing, production, art filters, editing, colors, actor:</b> Kryštof Zvolánek   <br />
              • <b>camera:</b> Jana Čecháčková                                                     <br />
              • <b>music:</b> Dan Řezníček    <br />
              A false dilemma is a type of fallacy that creates an impression
@@ -231,7 +232,7 @@ aby svoju milovanú zachránil.
 • <b>postproduction:</b> Jana Čecháčková            <br />
 • <b>actors:</b> Petra Srbová, Jakub Vlček, Jan Kalník, Gabriela Podolníková  <br />
             Příběh dvou lidí plný lásky, cigaretového kouře, odlišných
-názorů a tajemství. Je kouření opravdu vždy špatná volba?.
+názorů a tajemství. Je kouření opravdu vždy špatná volba?
             </p></td>
             <th class="logo"><img src="grafika/filmy/volba.jpg" alt="" style="margin: 15px 5px 5px 5px; " width="300" /></th>
           </tr>
@@ -327,8 +328,7 @@ Masarykovy univerzity 2014.
 • <b>catering:</b> Anna Kiliánová   <br />
 • <b>editing, animation:</b> Matěj Kašpar Jirásek   <br />
              Upoutávka na crowdfunding knihy komiksů „FÍ!“
-Ateliéru grafického designu a multimédií FI.  <br />
-j.mp/fikomiks
+Ateliéru grafického designu a&nbsp;multimédií FI.  <br />
             </p></td>
             <th class="logo"><img src="grafika/filmy/Fi.jpg" alt="" style="margin: 15px 5px 5px 5px; " width="300" /></th>
           </tr>
@@ -355,7 +355,7 @@ j.mp/fikomiks
       <div class="film2">
         <table class="filmy">
           <tr>
-            <td class="name"><h2>Dokument 14. FF FI</h2>
+            <td class="name"><h2>Dokument 14. FF FI MU</h2>
             <p>
              • <b>authors:</b> Jeroným Pelikovský, Jan Šplíchal, Jiří Gerat, Tereza Vlčková <br />
              Dokument ze 14. ročníku FF FI MU.
@@ -364,6 +364,20 @@ j.mp/fikomiks
           </tr>
         </table>
       </div>
+	  
+	   <div class="film1">
+        <table class="filmy">
+          <tr>
+            <td class="name"><h2>Dokument 15. FF FI MU</h2>
+            <p>
+             • <b>autoři:</b> Jan Szlauer, Martin Jancík, Jana Čecháčková <br />
+             <br />
+             Dokument z 15. ročníku FF FI MU.
+            </p></td>
+            <th class="logo"><img src="grafika/filmy/dokument2.jpg" alt="" style="margin: 15px 5px 5px 5px; " width="300" /></th>
+          </tr>
+        </table>
+		</div>
   
    
     <br />
