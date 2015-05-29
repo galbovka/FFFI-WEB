@@ -9,14 +9,14 @@
     <p>Na výhru v soutěži nemá soutěžící právní nárok a nepeněžní ceny nelze ani alternativně plnit či proměnit v&nbsp;penězích. Ceny se předávají během slavnostního vyhlášení výsledků dne <b>15.&nbsp;května 2015</b>. Při nepřítomnosti oceněného autora na slavnostním vyhlášení výsledků pak&nbsp;na&nbsp;základě oboustranné dohody autora s&nbsp;pořadateli XV. Filmového festivalu FI MU.</p>
     
     <h2>Ceny poroty:</h2>    <br />
-<p>1. místo - 1500 Kč, licence Adobe CC, putovní soška Filmobola   <br />
-2. místo - 1000 Kč, licence Zoner photo studio 17 <br />
-3. místo - 500 Kč licence Zoner photo studio 17  <br /></p>
+<p>1. místo - 1500 Kč, licence Adobe Master Collection CC, putovní soška Filmobola<br />
+2. místo - 1000 Kč, licence Zoner photo studio 17, iPod<br />
+3. místo - 500 Kč, licence Zoner photo studio 17<br /></p>
 
 <h2>Ceny diváků:</h2>  <br />
-<p>1. místo - Apple iPod nano, sportovní taška, cyklovak a tričko EmbedIT, multipack Starobrno medium, putovní soška Filmobola <br />
+<p>1. místo - licence Cinema 4D R16, sportovní taška, cyklovak a tričko EmbedIT, multipack Starobrno medium, putovní soška Filmobola <br />
 2. místo - licence Zoner photo studio 17, cyklovak a tričko EmbedIT, multipack Starobrno medium  <br />
-3. místo - licence Zoner photo studio 17, tričko EmbedIT, multipack Starobrno medium  <br />      </p>
+3. místo - licence Zoner photo studio 17, tričko EmbedIT, multipack Starobrno medium<br />      </p>
     <h2>Právní ustanovení</h2>
     <p><a href="pravidla.cs.html"> Přečtěte si prosím i právní ustanovení a pravidla pro přihlašování filmů!</a></p>
     <h2>Přihláška</h2>
